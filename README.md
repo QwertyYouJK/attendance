@@ -1,1 +1,1 @@
-An attendance taking program for my local church in Hong Kong.
+An attendance taking program for a local church in Hong Kong.
